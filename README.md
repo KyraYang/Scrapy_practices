@@ -1,1 +1,1 @@
-Scrapy
+Scrapy practices
