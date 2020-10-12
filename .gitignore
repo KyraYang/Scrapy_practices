@@ -2,3 +2,5 @@
 .DS_Store
 
 NationalDebt/NationalDebt/__pycache__/
+
+NationalDebt/NationalDebt/spiders/__pycache__/
